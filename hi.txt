@@ -1,0 +1,3 @@
+malicious is software developed by cybercriminals to damage or destroy computers and steal data.
+malware is a malicious applications or code that damage or disrupt the normal use of endpoint devices
+worm is a type of malware that can spread across devices on a network by replicating itself rapidly
